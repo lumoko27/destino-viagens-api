@@ -1,1 +1,0 @@
-web: java -jar target\destino_viagens_api-1.0.0.jar
